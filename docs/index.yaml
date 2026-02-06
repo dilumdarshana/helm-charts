@@ -3,12 +3,12 @@ entries:
   nginx:
   - apiVersion: v2
     appVersion: "1.23"
-    created: "2026-02-07T00:12:18.719997504+05:30"
+    created: "2026-02-07T00:20:41.724150871+05:30"
     description: A simple Nginx web server chart
     digest: 8c759851fb810b576e68ed46f52e0cf62d586c8628f255375ee70012221b4395
     name: nginx
     type: application
     urls:
-    - https://dilumdarshana.github.io/helm-charts/packages/nginx-1.0.0.tgz
+    - https://dilumdarshana.github.io/helm-charts/docs/nginx-1.0.0.tgz
     version: 1.0.0
-generated: "2026-02-07T00:12:18.719781749+05:30"
+generated: "2026-02-07T00:20:41.723953066+05:30"
